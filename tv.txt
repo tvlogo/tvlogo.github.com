@@ -1,5 +1,6 @@
 澳门,#genre#
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视澳门,http://tdm.jdshipin.com/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.5/ch2/ch2.live/playelist.m3u8
 澳视葡文,http://tdm.jdshipin.com/ch2/ch2.live/playelist.m3u8
 澳门Macau,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
