@@ -58,3 +58,12 @@
 抚州公共,http://tv.live.fgtxnews.com/fztv/gonggong.m3u8
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
+
+青海,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+果洛综合,http://111.44.214.34:8066/0.m3u8
