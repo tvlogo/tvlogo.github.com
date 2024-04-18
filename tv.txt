@@ -124,6 +124,7 @@
 新疆综艺,https://liveplay.xjbs.cn/liveback/xjtvs-04.m3u8?auth_key=1713370556-0-0-2b41fc70081ded61dca71db6ef923fc3
 新疆维语影视,https://liveplay.xjbs.cn/liveback/xjtvs-05.m3u8?auth_key=1713370556-0-0-ce624f2c54b2836705bc2b00338a36cd
 新疆经济生活,https://liveplay.xjbs.cn/liveback/xjtvs-07.m3u8?auth_key=1713370556-0-0-cf13ccb6a3c2da04407699b4e92c7316
+新疆经济生活,https://epg.pw/stream/0d9f63737dd3269aff6e438a81f6e92c70e876674aada3003e5f691038713e2c.ctv
 新疆哈语综艺,https://liveplay.xjbs.cn/liveback/xjtvs-08.m3u8?auth_key=1713370556-0-0-d80e47341521a6b188aafa702e77a796
 新疆维语经济生活,https://liveplay.xjbs.cn/liveback/xjtvs-09.m3u8?auth_key=1713370556-0-0-d30849963bfcd98d1bf32cca727a901a
 新疆体育健康,https://liveplay.xjbs.cn/liveback/xjtvs-10.m3u8?auth_key=1713370556-0-0-fa25c4a5d18d4ef5a68937d486184c71
