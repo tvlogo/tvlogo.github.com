@@ -116,6 +116,8 @@
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
 兵团卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000200a7e4caf973012bf85f33406.m3u8?bitrate=2300&pt=5
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+乌鲁木齐综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
+乌鲁木齐维语综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
 哈密综合,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
 哈密维语,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
@@ -126,6 +128,12 @@
 塔城综合,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 塔城哈语,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 塔城经济信息,http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
+昌吉综合,http://play.xjbzrk.com:80/live/cjzh.m3u8
+昌吉城市生活,http://play.xjbzrk.com:80/live/cjsh.m3u8
+巴州综合,http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8
+巴州蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
+巴州维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+巴州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
 
 西藏,#genre#
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
