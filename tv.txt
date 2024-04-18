@@ -119,6 +119,9 @@
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
+银川公共,http://play-sh13.quklive.com/live/1667883943560053.m3u8?auth_key=2015914283-08371389613b4c0ea3c6dff651dc7342-0-532f80aa10dc71b9376a1f0f37975064
+银川生活,http://play-sh13.quklive.com/live/1667883987087179.m3u8?auth_key=2015914201-e789f4bf87944ac98fc8e0c712232434-0-474d2b458436091b7c92eb893b9561f0
+银川文体,http://play-sh13.quklive.com/live/1667884025738071.m3u8?auth_key=2015914252-03486acd5e3b46648af6c4c84f7a411c-0-ad0d9bc275c37555f8220045d23af678
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 石嘴山综合,https://pili-live-hls-jrszs.szsnews.com/jrszs/zhpd.m3u8
@@ -186,6 +189,7 @@
 西宁新闻综合,https://epg.pw/stream/825a5ac0b0a65e0805eeaf028bdf9c81f1b6c99b1b8c242b7096ce61d66cff6d.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁生活服务,https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8
+海东综合,https://tv.hdhhy.cn/live/hdtv.m3u8
 果洛综合,http://111.44.214.34:8066/0.m3u8
 
 西藏,#genre#
