@@ -108,15 +108,6 @@
 石嘴山综合,https://pili-live-hls-jrszs.szsnews.com/jrszs/zhpd.m3u8
 石嘴山公共,https://pili-live-hls-jrszs.szsnews.com/jrszs/ggpd.m3u8
 
-青海,#genre#
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-果洛综合,http://111.44.214.34:8066/0.m3u8
-
 新疆,#genre#
 新疆卫视,https://liveplay.xjbs.cn/liveback/xjtvs-01.m3u8?auth_key=1713420811-0-0-e9c89570ccce9b8635d837f9117f686e
 新疆维语新闻综合,https://liveplay.xjbs.cn/liveback/xjtvs-02.m3u8?auth_key=1713370556-0-0-daed752b12ddd31f472e3a4e57d4f9b8
@@ -150,6 +141,24 @@
 巴州蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 巴州维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+
+青海,#genre#
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://www.yao87.com:4022/udp/239.76.254.132:9000
+青海卫视,https://epg.pw/stream/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8
+青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
+青海经视,https://epg.pw/stream/03e1e02577811b993390d7e8c0a9e061b847c3aaf344af8042569a48e12da9b5.m3u8
+青海经视,https://epg.pw/stream/f6b494e048eba995dfb8ecc330263e23dece0a15681cf25c5872d098363efddb.m3u8
+青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
+青海都市,https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+安多卫视,https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁新闻综合,https://epg.pw/stream/7b35edde22feb3c91816dae7cdfe6c9b6858993ac60c99a1219f0753b28bafcc.m3u8
+西宁新闻综合,https://epg.pw/stream/825a5ac0b0a65e0805eeaf028bdf9c81f1b6c99b1b8c242b7096ce61d66cff6d.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活服务,https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8
+果洛综合,http://111.44.214.34:8066/0.m3u8
 
 西藏,#genre#
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
