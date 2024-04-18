@@ -142,6 +142,9 @@
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 乌鲁木齐综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
 乌鲁木齐维语综合,http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
+克拉玛依综合,https://klmyzb.rcsxzx.com/hls/klmy1.m3u8
+克拉玛依维语,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
+克拉玛依影视文艺,https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
 哈密综合,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
 哈密维语,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
@@ -149,6 +152,9 @@
 伊犁哈语,http://110.153.180.106:55555/out_2/index.m3u8
 伊犁维语,http://110.153.180.106:55555/out_3/index.m3u8
 伊犁经济,http://110.153.180.106:55555/out_4/index.m3u8
+阿克苏综合,https://49610.hlsplay.aodianyun.com/tv_radio_49610/tv_channel_2229.m3u8?auth_key=1713524205-0-0-9fbcac7a68463b3f7eb43065ac78fe6a&extra_key=epQNJwExP8aGqkSt-OAoKVrxtA6UqUhRA5Z6P742G-3KLoJruOubAsIAJkIXXXD4Rw1hP2XK-979C3ajSIDDI9VRL0mjh3LzTMGc4vZlSs3W9mzy0TsBmOw7xbz6sDSRkcGMiJm7BHE3RXUhMwn8xh0Ob8RwUGrqz6_8w70jBMI
+阿克苏生活,https://49610.hlsplay.aodianyun.com/tv_radio_49610/tv_channel_2232.m3u8?auth_key=1713524293-0-0-77a0ae5b66a0ed976453d73716f23195&extra_key=ZRfi52Uw7BSIFJhuYdWPLjdNLQ1zjDmvR0vs4LhOof_Pi-cHqxHL7nJ6tpxFKL8VeyaAdN1wzdasvMRz9kkEyRXUopeyzBPPNAUGzHeUYQvyTsEGWWZi1QUSwtGDUJE49EzYtjlW9_ExeHVWkrpDu5HAvy7Hnc31Ob0mIr7gbDQ
+阿克苏维语,https://49610.hlsplay.aodianyun.com/tv_radio_49610/tv_channel_2233.m3u8?auth_key=1713524414-0-0-eae01fce38cfeaf968a66b988fb9220a&extra_key=wqOCf5HBZNbJFIjGMr0c_XWF8q-fzTMNBgGFcIzZHnng8rBDMWcWFwSyEZ_NbGu-Jmwt_-hc1M2-3GYObbjOkaUV3DkzOqo41ao-2rCkLquBgOC6w9luj4ZRWxi3JFFb4a7B8gP_gHnP4J_ldxh9vFXprDxYNkm_vIfBYzxFYiw
 塔城综合,http://218.84.35.38:3000/m3u8/live/tctv-1/index.m3u8
 塔城哈语,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 塔城经济信息,http://218.84.35.38:3000/m3u8/live/tctv-3/index.m3u8
@@ -158,6 +164,11 @@
 巴州蒙语,http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 巴州维语,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴州教育,http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
+阿勒泰综合,https://play-a2.quklive.com/live/1704380285590041.m3u8
+阿勒泰哈语,https://play-a2.quklive.com/live/1704380366011045.m3u8
+博州综合,https://alitv-play.boznews.cn/live/bttv1.m3u8?auth_key=1718209426-0-0-ddc1781460bc7b5062ae943c6d7164af
+博州蒙语,https://alitv-play.boznews.cn/live/bttv2.m3u8?auth_key=1718209433-0-0-b44e8fb277a810bbde60b4cf7df6bfa9
+博州维语,https://alitv-play.boznews.cn/live/bttv3.m3u8?auth_key=1718209451-0-0-8c6e7db80a773017dc7d8eb0d5f73453
 
 青海,#genre#
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
