@@ -30,6 +30,15 @@
 天津卫视,http://ygbh.live/ysp.php?id=tjws
 天津卫视,https://live-pc.xuexi.cn/merged/tjtv_merge_qhd.m3u8?auth_key=1713388608-0-17133346089562575-2ed2c3976a0d8a5bbbe82aed381dd847&yid=17133346089562575
 天津卫视,http://60.29.124.66:6080/hls/1/index.m3u8
+天津卫视,http://60.174.40.117:9901/tsfile/live/1027_1.m3u8
+天津卫视,http://iptv.myxcwh.com:8125/rtp/233.50.201.104:5140
+天津卫视,http://pve.czjimi.com:8808/rtp/238.1.78.20:6088
+天津卫视,http://114.105.153.224:8888/udp/238.1.78.20:6088
+天津卫视,http://www.liruixiang.cc:9000/udp/239.3.1.141:1234
+天津卫视,http://www.liruixiang.cc:9000/rtp/239.3.1.141:1234
+天津卫视,http://www.yao87.com:4022/udp/239.76.253.185:9000
+天津卫视,http://www.yao87.com:4022/udp/239.76.246.185:1234
+天津卫视,http://gzly.softether.net:6005/udp/239.252.220.61:5140
 天津新闻,http://60.29.124.66:6080/hls/2/index.m3u8
 天津文艺,http://60.29.124.66:6080/hls/3/index.m3u8
 天津影视,http://60.29.124.66:6080/hls/4/index.m3u8
@@ -102,7 +111,7 @@
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M/index.m3u8
+宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 吴忠综合,http://live.kanwz.net/zhpd/sd/live.m3u8
 吴忠公共,http://live.kanwz.net/ggpd/sd/live.m3u8
 石嘴山综合,https://pili-live-hls-jrszs.szsnews.com/jrszs/zhpd.m3u8
