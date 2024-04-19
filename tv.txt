@@ -103,6 +103,9 @@
 赣州教育,http://wb.jxgztv.com/live/gztv3.m3u8
 宜春综合,https://live.newsyc.com/ycyt/sd/live.m3u8
 宜春公共,https://live.newsyc.com/ycrt/sd/live.m3u8
+新余新闻综合,rtmp://43.138.192.238:1935/live/tvb
+新余公共,rtmp://43.138.192.238:1935/live/tvc
+新余教育,rtmp://43.138.192.238:1935/live/tva
 上饶新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
 上饶经济旅游,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
 吉安综合,http://stream.ijatv.com/jatv1/hd/live.m3u8?_upt=f7f278931713019264
