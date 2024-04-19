@@ -13,6 +13,13 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
+亚太第一卫视,http://play2.one-tv.com/live/onetv.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 澳门,#genre#
 澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
