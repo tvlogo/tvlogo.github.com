@@ -110,6 +110,8 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 厦门卫视,http://gzly.hkychina.com:6005/udp/239.252.219.75:5140
+泉州新闻综合,https://live.qztv.cn/live/news.m3u8
+泉州闽南语,https://live.qztv.cn/live/mny.m3u8
 漳州新闻综合,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
