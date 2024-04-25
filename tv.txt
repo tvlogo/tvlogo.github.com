@@ -217,6 +217,23 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 萍乡新闻综合,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 萍乡公共,https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 
+海南,#genre#
+海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
+海南卫视,http://1.24.190.98:10080/hls/99/index.m3u8
+海南卫视,http://www.yao87.com:4022/udp/239.76.246.203:1234
+海南卫视,http://www.yao87.com:4022/udp/239.76.253.203:9000
+海南卫视,http://rt4.orangevip.top:8999/rtp/232.0.0.26:1234
+海南卫视,http://fxgm.fxjf.work:19901/tsfile/live/1010_1.m3u8
+海南自贸,https://live3.hnntv.cn/srs/tv/jjpd.m3u8
+海南公共,https://live3.hnntv.cn/srs/tv/ggpd.m3u8
+海南文旅,https://live3.hnntv.cn/srs/tv/wlpd.m3u8
+海南少儿,https://live3.hnntv.cn/srs/tv/sepd.m3u8
+海南新闻,https://live3.hnntv.cn/srs/tv/xwpd.m3u8
+海口综合,http://124.225.35.97:16080/live/tv2401.m3u8
+海口生活娱乐,http://124.225.35.97:16080/live/tv2402.m3u8
+海口城乡经济,http://124.225.35.97:16080/live/tv2403.m3u8
+三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
+
 陕西,#genre#
 陕西卫视,http://gzly.hkychina.com:6005/udp/239.252.219.105:5140
 陕西卫视,http://stream.snrtv.com/sxbc-star-airBPQ.m3u8
