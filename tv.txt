@@ -283,6 +283,7 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
 甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
+甘肃移动电视,https://hls.gstv.com.cn/94ycke/v9qci2.m3u8
 证券服务,http://113.9.161.254:88/hls/115/index.m3u8
 张掖新闻,https://play.kankanlive.com/live/1707401420907928.m3u8
 天水综合,https://play.kankanlive.com/live/1698724188723989.m3u8
