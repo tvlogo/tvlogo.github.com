@@ -233,6 +233,7 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 海口生活娱乐,http://124.225.35.97:16080/live/tv2402.m3u8
 海口城乡经济,http://124.225.35.97:16080/live/tv2403.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
+儋州综合,rtmp://36009.lssplay.aodianyun.com/tv_radio_36009/tv_channel_1330?auth_key=4826510673-0-0-923a588e7d847022f5cdecb8a0950b3a
 
 陕西,#genre#
 陕西卫视,http://gzly.hkychina.com:6005/udp/239.252.219.105:5140
