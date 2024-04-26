@@ -64,6 +64,14 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 天津教育,http://60.29.124.66:6080/hls/7/index.m3u8
 天津购物,http://60.29.124.66:6080/hls/11/index.m3u8
 
+重庆,#genre#
+重庆卫视,http://rt4.orangevip.top:8999/rtp/232.0.0.186:1234
+重庆卫视,http://gzly.hkychina.com:6005/udp/239.252.220.94:5140
+重庆卫视,http://gzly.softether.net:6005/udp/239.252.220.94:5140
+重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
+时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
+
 安徽,#genre#
 安徽经济生活,https://epg.pw/stream/3938a495fba6df0234433ccd5edf43a52ab2cd39f2f57bac480ae9b63d27c55f.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
@@ -383,6 +391,7 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁生活服务,https://epg.pw/stream/c4146a67a9f9ff25b740323faf1c3bc7e34a8766b904599bd51aa26f0283a58a.m3u8
 海东综合,https://tv.hdhhy.cn/live/hdtv.m3u8
+海南综合,https://play-video.hnzgbdst.com/live/59_1.m3u8
 果洛综合,http://111.44.214.34:8066/0.m3u8
 
 西藏,#genre#
