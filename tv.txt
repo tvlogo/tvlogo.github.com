@@ -69,7 +69,7 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 重庆卫视,http://gzly.hkychina.com:6005/udp/239.252.220.94:5140
 重庆卫视,http://gzly.softether.net:6005/udp/239.252.220.94:5140
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
+重庆移动电视,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
 时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
 
 安徽,#genre#
@@ -350,8 +350,11 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 克拉玛依维语,https://klmyzb.rcsxzx.com/hls/klmy2.m3u8
 克拉玛依影视文艺,https://klmyzb.rcsxzx.com/hls/klmy3.m3u8
 哈密综合,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
+哈密综合,https://3grauymtwgyzdrc3qgeaug.ourdvsss.com/tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b/playlist.m3u8
 哈密维语,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密维语,https://3grauymtwgyzdrc3qgeaug.ourdvsss.com/tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈密影视文艺,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
+哈密影视文艺,https://3grauymtwgyzdrc3qgeaug.ourdvsss.com/tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 伊犁综合,http://110.153.180.106:55555/out_1/index.m3u8
 伊犁哈语,http://110.153.180.106:55555/out_2/index.m3u8
 伊犁维语,http://110.153.180.106:55555/out_3/index.m3u8
