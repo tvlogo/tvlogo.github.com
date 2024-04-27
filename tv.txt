@@ -72,6 +72,8 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 湖南教育,https://epg.pw/stream/a17abba3b57bf60062ce0ec7eebb6c08978f4d4a30fbb7337792b3a5180bf4f8.m3u8
 湖南教育,https://epg.pw/stream/8eaa860edc46f79ad63763a2531b71738fe72fcb35f10148c2b86ab4bf129770.m3u8
+长沙新闻综合,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTExOC4xMjAuODcuMTE4JnFpZD0mcz1kZDUyMWI2ZmViMDQzODRmYzEwMDc1ZTAyNzdmOGQxYyZlcz0xNzE0MjM1ODYwJnV1aWQ9YjM0N2Y4MTk4ZGJlMWFhMDE3NGFjYThkYzgwMmViMDQtNzY3ODU3NzYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/CSXWMPP360.m3u8
+长沙政法,http://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTExOC4xMjAuODcuMTE4JnFpZD0mcz03NzM1MmUwMGFlZGM5NzIxYWE5YjhmZTUyN2JkZWFmNiZlcz0xNzE0MjM1ODI0JnV1aWQ9ODY2NjdiMTRjNDBmNjJhMzkzMzdmYTcyNmRiNjUwMDQtNzY3ODU3NzYmdj0yJmFzPTAmY2RuZXhfaWQ9d3NfcGhvbmUz/CSZFMPP360.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭新闻综合,https://epg.pw/stream/4fa9e4e7b0ad40206d5df9b2fbfb5f0b046f621b82b0a4c62d242da47cdf0869.m3u8
 益阳新闻综合,http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/yyrtvxwhd231205.m3u8
