@@ -374,9 +374,9 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 安康综合,https://hdl-sxak.sobeylive.com/xjhsyapp2019/zhpdhd.flv
 安康综合,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226053/index.m3u8
 安康综合,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226053/index.m3u8
-安康公共,rtmp://pili-live-rtmp.hsyapp.sobeylingyun.com/xjhsyapp2019/ggpdhd
-安康公共,https://hdl-sxak.sobeylive.com/xjhsyapp2019/ggpdhd.flv
-安康公共,https://hls-sxak.sobeylive.com/xjhsyapp2019/ggpdhd.m3u8
+安康民生,rtmp://pili-live-rtmp.hsyapp.sobeylingyun.com/xjhsyapp2019/ggpdhd
+安康民生,https://hdl-sxak.sobeylive.com/xjhsyapp2019/ggpdhd.flv
+安康民生,https://hls-sxak.sobeylive.com/xjhsyapp2019/ggpdhd.m3u8
 安康教育,rtmp://pili-live-rtmp.hsyapp.sobeylingyun.com/xjhsyapp2019/jypdhd
 安康教育,https://hls-sxak.sobeylive.com/xjhsyapp2019/jypdhd.m3u8
 安康教育,https://hdl-sxak.sobeylive.com/xjhsyapp2019/jypdhd.flv
