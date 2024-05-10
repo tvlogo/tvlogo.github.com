@@ -236,7 +236,6 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
 龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 三明新闻综合,http://stream.smntv.cn/smtv1/playlist.m3u8
-三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
 
 江西,#genre#
 江西卫视,http://gzly.hkychina.com:6005/udp/239.252.220.63:5140
@@ -412,7 +411,6 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 嘉峪关公共,https://play.kankanlive.com/live/1690854414503922.m3u8
 武威综合,https://play.kankanlive.com/live/1693539781636986.m3u8
 平凉新闻综合,https://play.kankanlive.com/live/1694661314645984.m3u8
-平凉公共,https://play.kankanlive.com/live/1694749567303961.m3u8
 酒泉综合,https://play.kankanlive.com/live/1702033926169975.m3u8
 酒泉文旅,https://play.kankanlive.com/live/1702036477193973.m3u8
 甘南综合,https://gnhls.qingmei.tv/live/gnhypd.m3u8?volcTime=1727166352&volcSecret=7459ae0883d77d62a13313faab52dca7
