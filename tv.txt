@@ -389,6 +389,26 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 榆林公共,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226337/index.m3u8
 榆林公共,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226337/index.m3u8
 
+内蒙古,#genre#
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+内蒙古卫视,http://gzly.hkychina.com:6005/udp/239.252.219.48:5140
+内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+内蒙古文体娱乐,https://epg.pw/stream/bf1fdd3406abbd3aa4c357ec7bce781f0a1c61e44bc24497e9b4588c6759eb72.m3u8
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+内蒙古少儿,https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+内蒙古蒙语卫视,https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+包头新闻综合,http://1.180.41.54/channels/btgd/xwzh/m3u8:500k/live.m3u8
+包头新闻综合,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live.m3u8
+包头生活服务,http://1.180.41.54/channels/btgd/shfw/m3u8:500k/live.m3u8
+包头生活服务,http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live.m3u8
+乌兰察布新闻综合,https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
+乌兰察布经济生活,https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+
 甘肃,#genre#
 甘肃卫视,http://gzly.hkychina.com:6005/udp/239.252.219.140:5140
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
