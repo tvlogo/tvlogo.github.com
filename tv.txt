@@ -507,12 +507,18 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 内蒙古蒙语卫视,https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
 内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+足球频道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 包头新闻综合,http://1.180.41.54/channels/btgd/xwzh/m3u8:500k/live.m3u8
 包头新闻综合,http://live.btgdt.com/channels/btgd/xwzh/m3u8:500k/live.m3u8
 包头生活服务,http://1.180.41.54/channels/btgd/shfw/m3u8:500k/live.m3u8
 包头生活服务,http://live.btgdt.com/channels/btgd/shfw/m3u8:500k/live.m3u8
 乌兰察布新闻综合,https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8
 乌兰察布经济生活,https://pluslive.wrbtv.cn/jjshpd/sd/live.m3u8
+通辽新闻综合,https://live.tongliaowang.com/video/a2aef6ea659c.m3u8
+通辽蒙语,https://live.tongliaowang.com/video/f7418cec973d.m3u8
+通辽城市服务,https://live.tongliaowang.com/video/4313e1e3d9db.m3u8
+乌海新闻综合,http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 
 甘肃,#genre#
 甘肃卫视,http://gzly.hkychina.com:6005/udp/239.252.219.140:5140
