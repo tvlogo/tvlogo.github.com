@@ -219,6 +219,20 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 天津教育,http://60.29.124.66:6080/hls/7/index.m3u8
 天津购物,http://60.29.124.66:6080/hls/11/index.m3u8
 
+湖北,#genre#
+湖北卫视,http://rt4.orangevip.top:8999/rtp/232.0.0.124:1234
+武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
+武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉教育,https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
+荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+十堰新闻综合,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+十堰经济旅游,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+
 重庆,#genre#
 重庆卫视,http://rt4.orangevip.top:8999/rtp/232.0.0.186:1234
 重庆卫视,http://gzly.hkychina.com:6005/udp/239.252.220.94:5140
