@@ -223,7 +223,6 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 湖北卫视,http://rt4.orangevip.top:8999/rtp/232.0.0.124:1234
 武汉新闻综合,https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
@@ -233,6 +232,7 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 宜昌综合,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 宜昌综合,https://yichang-live21.cjyun.org/10091/10091-yczh.m3u8?auth_key=1735660799-0-0-152a9f6a201d7d56428feae52d4b18b8
+宜昌旅游生活,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 黄冈新闻综合,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄冈生活,http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
 荆州新闻综合,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
