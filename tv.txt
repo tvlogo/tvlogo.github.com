@@ -242,6 +242,8 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 荆门新闻综合,https://epg.pw/stream/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
 荆门科教文旅,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
+黄石新闻综合,https://44721.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3031.m3u8?auth_key=1718257475-0-0-9fa3409749abba4508a69fa10d56d646&extra_key=KWkCUGLiSWm9q38R-a7d03-XOSXYXejhuKvH7mFa7JJ-PUCnwSbktxLiXQwGt6EFVEhN9EFZ3ECyByRmbn0B6mzgVvJ4otf4RGHgT0ZKLXspc0tnSxDp5vt9fk8v5CMZY0lX8BNu1mwIGYCtjx6r1IOnYOHBipzp9RjcHI7ssr0
+黄石都市,https://44721.hlsplay.aodianyun.com/tv_radio_44721/tv_channel_3032.m3u8?auth_key=1718257418-0-0-1e9c374abad5720f64ce22668ea6f7f0&extra_key=A3qyLvNE5CFSORN14dQZ_jnkXVT2Lts-bL2mKAwtUqPO21DNqmFyLHInIOZiXLdkFy9Cnn9D29xHplD5L0-mcDWFlCWy_A8-CC9lOxr6k-UWTYq3_DKO3AMiRe0Xu-K5BhTGmokgaXtPqND8uJpMaE-NTnufK7h0pYPT0fyiA7s
 孝感新闻综合,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1735660799-0-0-c66126a1e65c45cfa675dd5f16914315
 孝感生活,https://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1735660799-0-0-4bab6f67ddaf4ba1c9fc7a1ffecee5b8
 咸宁综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
