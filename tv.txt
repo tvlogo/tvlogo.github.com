@@ -433,9 +433,12 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 邢台城市生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 衡水新闻综合频道,http://hls.hsrtv.cn/live/hshstv1.m3u8
 衡水公共,http://hls.hsrtv.cn/live/hshstv2.m3u8
-沧州新闻综合,http://czlive.czgd.tv:85/live/xnyt.m3u8
-沧州公共,http://czlive.czgd.tv:85/live/xnet.m3u8
-沧州影视娱乐,http://czlive.czgd.tv:85/live/xnst.m3u8
+廊坊新闻综合,rtmp://222.222.126.18/live/lfxw
+廊坊公共,rtmp://222.222.126.18/live/lfgg
+廊坊导视,rtmp://222.222.126.18/live/lfds
+沧州新闻综合,http://czlive.czgd.tv:8091/live/czyt_czytzm.m3u8
+沧州公共,http://czlive.czgd.tv:8091/live/czet_czetzm.m3u8
+沧州影视娱乐,http://czlive.czgd.tv:8091/live/czst_czstzm.m3u8
 张家口新闻综合频道,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 张家口公共,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 
