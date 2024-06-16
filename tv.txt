@@ -495,7 +495,10 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 北海图文,http://citylive.njgdmm.com/beihai/d49b9838-dacf-4a22-ab46-1eed2b515d88.m3u8
 玉林新闻综合,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3289.m3u8?auth_key=4846965841-0-0-9764667fa15da8675d9343a9d685e93b&extra_key=3G7phQNujucfjDfVZX7XtFsfMjeELWIZpjNRADdYpRWOUdAykIw7RkxbAmiF9U934MKf8LNlRPUVp9ooT4UEvKJQlaJrZuMqJnw-UvayII5G4kw7jFgAqhhjpD4DC7gyZEtynT7zMnF8xzE3J1g6soaagSkmkag_tsjqRTH1zeM
 玉林公共,http://51742.hlsplay.aodianyun.com/tv_radio_51742/tv_channel_3290.m3u8?auth_key=4846966707-0-0-3692291c1867891a8e1bcd3342c2c7d3&extra_key=WyQ8_SnoOM_9UoUOZv2pjgP04oOipJ-pQWnJjw0jcBbaVgB0SkWuufEouIoMrTTOHqCKsiuUTwsIC0eKdC6zj2Gjlo7loVJYBjnj9u34skklFkjAiC1ZElhnKpE8Ld7G4gu1Brfz5mapU04IA8BsDydhsghkaLRDTTxYAQGuvqw
-贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
+百色综合,rtmp://live.gxrb.com.cn/tv/bstv_zh
+崇左综合,rtmp://live.gxrb.com.cn/gx/chongzuo
+崇左综合,https://lives.myun.tv/live/5podkk10.m3u8
+崇左综合,https://rtmp.gdlive.gdmain.com/live/5podkk10.m3u8
 
 海南,#genre#
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
