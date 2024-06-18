@@ -432,8 +432,8 @@ Channel [V],http://wouu.net:9977/udp/239.93.0.157:2194
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 资阳新闻综合,https://zbsczy.zyrb.com.cn/zygc/q_live169940503167305.m3u8
-凉州新闻综合,http://118.122.2.29:9999/hls/51/index.m3u8
-凉州彝语综合,http://118.122.2.29:9999/hls/47/index.m3u8
+凉山新闻综合,http://118.122.2.29:9999/hls/51/index.m3u8
+凉山彝语综合,http://118.122.2.29:9999/hls/47/index.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 
 河北,#genre#
